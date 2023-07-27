@@ -98,7 +98,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.linchao.usercenter.LinPaoApplication</mainClass>
+                    <mainClass>com.linchao.linpao.LinPaoApplication</mainClass>
 <!--                    <skip>true</skip>-->
                 </configuration>
                 <executions>
